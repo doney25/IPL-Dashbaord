@@ -9,7 +9,15 @@ The dashboard provides a team-level overview of match performance, season trends
 ## 📊 Dashboard Preview
 
 ![IPL Team Dashboard](screenshots/dashboard_csk.png)
-
+![IPL Team Dashboard](screenshots/dashboard_mi.png)
+![IPL Team Dashboard](screenshots/dashboard_rcb.png)
+![IPL Team Dashboard](screenshots/dashboard_kkr.png)
+![IPL Team Dashboard](screenshots/dashboard_lsg.png)
+![IPL Team Dashboard](screenshots/dashboard_gt.png)
+![IPL Team Dashboard](screenshots/dashboard_rr.png)
+![IPL Team Dashboard](screenshots/dashboard_pkbs.png)
+![IPL Team Dashboard](screenshots/dashboard_dc.png)
+![IPL Team Dashboard](screenshots/dashboard_srh.png)
 
 ---
 
